@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js","index.js"],"names":["module","exports","test","zeko","require","console","log"],"mappings":";AAAAA,OAAOC,QAAU,CACfC,KAAM;;ACDR,IAAMC,EAAOC,QAAQ,UACrBC,QAAQC,IAAIH,EAAKD","file":"restorurant-app.40f303cc.map","sourceRoot":"..","sourcesContent":["module.exports = {\n  test: 'testis'\n}","const zeko = require('./test')\nconsole.log(zeko.test)"]}
